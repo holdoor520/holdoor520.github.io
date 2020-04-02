@@ -1,6 +1,6 @@
 {
     "version" : "1.0.0",
     "platform" : "iOS",
-    "message" : "https://baidu.com",
-	"code" : ""
+    "message" : "safari:https://baidu.com",
+    "code" : ""
 }
